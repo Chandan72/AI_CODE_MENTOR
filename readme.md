@@ -4,3 +4,7 @@
 - FastAPI is the framework we'll use to build our API
 -Uvicorn is the server that will run our Fastapi application
 -so we have to install that "pip install fastapi "uvicorn[standard]"
+-now i am going to set up environment for google gemini api
+-for that "pip install google-generativeai python-dotenv
+-Create the .env file to securly add the gemini api key
+-now come to build the endpoint for analysis
