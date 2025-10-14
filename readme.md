@@ -1,0 +1,6 @@
+- create the project folder name "AI_CODE_MENTOR"
+-Create vartual envornment "python -m venv venv"
+-activate the venv ".\venv\Scripts\activate"
+- FastAPI is the framework we'll use to build our API
+-Uvicorn is the server that will run our Fastapi application
+-so we have to install that "pip install fastapi "uvicorn[standard]"
