@@ -8,3 +8,5 @@
 -for that "pip install google-generativeai python-dotenv
 -Create the .env file to securly add the gemini api key
 -now come to build the endpoint for analysis
+-buit the endpoint for code_analyze
+-use pydantic for strctural input and output
