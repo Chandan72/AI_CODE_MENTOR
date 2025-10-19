@@ -10,3 +10,6 @@
 -now come to build the endpoint for analysis
 -buit the endpoint for code_analyze
 -use pydantic for strctural input and output
+
+-now i am going to create the endpoint for the handling entire github repo with url
+- for this we have to install GitPython
