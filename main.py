@@ -37,7 +37,9 @@ app = FastAPI()
 # --- ADD THIS MIDDLEWARE SECTION ---
 # This is the crucial part for allowing the frontend to talk to the backend.
 origins = [
-    "http://localhost:3000", # The origin of our Next.js frontend
+    "http://localhost:3000",
+    "https://code-mentor-ui.vercel.app",
+     # The origin of our Next.js frontend
 ]
 
 app.add_middleware(
